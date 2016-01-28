@@ -1,0 +1,39 @@
+minmax = 5.141101695977755, i = 350
+Best iteration for max: 350, Roll: 00110.00, Pitch: -0030.00, Yaw: 00005.00
+minrms = 2.194669422698870, i = 28
+Best iteration for rms: 28, Roll: 00120.00, Pitch: 00030.00, Yaw: -0060.00
+
+minmax = 5.073159403165512, i = 286
+Best iteration for max: 286, Roll: 00110.51, Pitch: 00021.54, Yaw: -0002.31
+minrms = 2.095240060782710, i = 229
+Best iteration for rms: 229, Roll: 00112.05, Pitch: 00037.95, Yaw: -0061.79
+
+minmax = 5.070849191528025, i = 627
+Best iteration for max: 627, Roll: 00110.38, Pitch: 00034.67, Yaw: -0007.18
+minrms = 2.094077704025195, i = 476
+Best iteration for rms: 476, Roll: 00110.26, Pitch: 00040.87, Yaw: -0059.23
+
+minmax = 5.069660058622728, i = 544
+Best iteration for max: 544, Roll: 00110.46, Pitch: 00030.15, Yaw: -0004.47
+minrms = 2.093881553862412, i = 35
+Best iteration for rms: 35, Roll: 00110.15, Pitch: 00040.87, Yaw: -0061.37
+
+minmax = 5.069343717140962, i = 110
+Best iteration for max: 110, Roll: 00110.10, Pitch: 00029.00, Yaw: -0004.21
+minrms = 2.093812908892531, i = 594
+Best iteration for rms: 594, Roll: 00110.03, Pitch: 00041.00, Yaw: -0061.79
+
+Best max: 0005.063, rms is 0002.238
+Best iteration for max: 349, AttUnc: 4.4690708, VelUnc: 0000.256, PosUnc: 0008.974
+Best rms: 0002.214, max is 0005.067
+Best iteration for rms: 531, AttUnc: 4.4690708, VelUnc: 0008.462, PosUnc: 0010.000
+
+Best max: 0004.839, rms is 0002.092
+Best iteration for max: 1122, AttUnc: 0001.184, VelUnc: 0010.000, PosUnc: 0006.898
+Best rms: 0001.930, max is 0005.238
+Best iteration for rms: 896, AttUnc: 0003.939, VelUnc: 0000.694, PosUnc: 0000.500
+
+Best max: 0005.011, rms is 0002.109
+Best iteration for max: 571, aBiasUnc: 6250.552, gBiasUnc: 1151.395
+Best rms: 0001.930, max is 0005.284
+Best iteration for rms: 422, aBiasUnc: 5179.475, gBiasUnc: 7543.120
