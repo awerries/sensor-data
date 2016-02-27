@@ -37,3 +37,205 @@ Best max: 0005.011, rms is 0002.109
 Best iteration for max: 571, aBiasUnc: 6250.552, gBiasUnc: 1151.395
 Best rms: 0001.930, max is 0005.284
 Best iteration for rms: 422, aBiasUnc: 5179.475, gBiasUnc: 7543.120
+
+Best max: 4.6469762, rms is 2.0587783
+Best iteration for max: 75, epoch: 0.0149498
+Best rms: 2.0587783, max is 4.6469762
+Best iteration for rms: 75, epoch: 0.0149498
+
+Best max: 4.6502636, rms is 2.0593255
+Best iteration for max: 20, epoch: 0.0149487
+Best rms: 2.0593255, max is 4.6502636
+Best iteration for rms: 20, epoch: 0.0149487
+
+Best max: 004.8374, rms is 002.1361
+Best iteration for max: 316, GNoise: 01.51724, ANoise: 100.00000, ABias: 00.00000, GBias: 00.00004
+Best rms: 001.9860, max is 005.2397
+Best iteration for rms: 144, GNoise: 03.24138, ANoise: 5298.31691, ABias: 00.00000, GBias: 00.00020
+>> gyro_noise_PSD(gyro_noise_i(i)), accel_noise_PSD(accel_noise_i(i)), accel_bias_PSD(accel_bias_i(i)), gyro_bias_PSD(gyro_bias_i(i))
+ans = 1.517241379310345
+ans = 100
+ans = 2.395026619987486e-07
+ans = 4.175318936560400e-05
+>> gyro_noise_PSD(gyro_noise_i(i)), accel_noise_PSD(accel_noise_i(i)), accel_bias_PSD(accel_bias_i(i)), gyro_bias_PSD(gyro_bias_i(i))
+ans = 3.241379310344827
+ans = 5.298316906283708e+03
+ans = 7.880462815669905e-07
+ans = 2.043359717856944e-04
+
+
+Best max: 04.85827, rms is 01.95171
+Best iteration for max: 93, PosSD: 00.44138, VelSD: 00.10000
+Best rms: 01.95171, max is 04.85827
+Best iteration for rms: 93, PosSD: 00.44138, VelSD: 00.10000
+
+Best max: 04.65281, rms is 01.96659
+Best iteration for max: 2, PosSD: 00.56207, VelSD: 00.22069
+Best rms: 01.94208, max is 04.89068
+Best iteration for rms: 440, PosSD: 01.58621, VelSD: 00.22069
+
+latest rresults
+>> initialize_and_run
+Please select Applanix log file
+Please select NovAtel log file
+Please select IMU log file
+
+RMS Raw:1.934515
+Max Raw:4.347060
+
+RMS Filter:1.971142
+Max Filter:4.632780
+
+
+Best max: 004.1175, rms is 002.1280
+Best iteration for max: 523, GNoise: 02.66667, ANoise: 2154.43469, ABias: 1.60372e-05, GBias: 1.70125e-08
+Best rms: 001.9228, max is 004.6826
+Best iteration for rms: 267, GNoise: 04.46154, ANoise: 412.46264, ABias: 2.15443e-05, GBias: 1.00000e-06
+IdleTimeout has been reached.
+
+Best max: 04.62861, rms is 01.99402
+Best iteration for max: 1817, Roll: -100.00000, Pitch: -9.09091, Yaw: 74.54545
+Best rms: 01.98431, max is 04.66902
+Best iteration for rms: 96, Roll: -100.00000, Pitch: 103.63636, Yaw: 34.54545
+
+
+AFTER FLIPPING IMU AXES:
+Best max: 04.17185, rms is 02.06839
+Best iteration for max: 58, Roll: -13.96552, Pitch: -3.62069, Yaw: -31.03448
+Best rms: 01.93510, max is 04.27995
+Best iteration for rms: 24, Roll: -15.00000, Pitch: 11.89655, Yaw: -68.27586
+
+Best max: 04.12482, rms is 02.03989
+Best iteration for max: 90, Roll: 130.34483, Pitch: 167.58621, Yaw: -155.17241
+Best rms: 01.92199, max is 04.26372
+Best iteration for rms: 882, Roll: -43.44828, Pitch: 155.17241, Yaw: -68.27586
+
+Best max: 04.14223, rms is 02.05260
+Best iteration for max: 1876, Roll: -28.77551, Pitch: 28.77551, Yaw: 03.67347
+Best rms: 01.92633, max is 04.26967
+Best iteration for rms: 1813, Roll: -28.77551, Pitch: -20.20408, Yaw: -69.79592
+
+Best max: 04.26933, rms is 01.92550
+Best iteration for max: 737, AttUnc: 01.00000, VelUnc: 00.74359, PosUnc: 05.61538
+Best rms: 01.92543, max is 04.26942
+Best iteration for rms: 184, AttUnc: 01.00000, VelUnc: 06.34615, PosUnc: 00.74359
+
+Best max: 0004.145, rms is 0002.032
+Best iteration for max: 71, aBiasUnc: 0372.759, gBiasUnc: 0868.511
+Best rms: 0001.923, max is 0004.247
+Best iteration for rms: 81, aBiasUnc: 1676.833, gBiasUnc: 0372.759
+
+Best max: 004.0447, rms is 001.9481
+Best iteration for max: 182, GNoise: 01.51282, ANoise: 366.52412, ABias: 2.72833e-06, GBias: 1.00000e-08
+Best rms: 001.9012, max is 004.4728
+Best iteration for rms: 890, GNoise: 05.74359, ANoise: 522.33451, ABias: 5.87802e-08, GBias: 5.87802e-06
+
+Best max: 004.0640, rms is 001.9379
+Best iteration for max: 116, ABias: 3.45511e-07, GBias: 1.19378e-08
+Best rms: 001.8994, max is 004.3653
+Best iteration for rms: 717, ABias: 1.70125e-08, GBias: 4.12463e-06
+
+
+Best max: 04.10034, rms is 01.94739
+Best iteration for max: 26, n: 501
+Best rms: 01.91357, max is 04.10034
+Best iteration for rms: 70, n: 1381
+
+Best max: 04.10034, rms is 01.92069
+Best iteration for max: 1, n: 400
+Best rms: 01.89092, max is 04.10034
+Best iteration for rms: 15, n: 470
+
+Best max: 03.66126, rms is 01.91532
+Best iteration for max: 1955, Roll: -28.77551, Pitch: -30.00000, Yaw: -106.53061
+Best rms: 01.91244, max is 03.66583
+Best iteration for rms: 295, Roll: -27.55102, Pitch: -18.97959, Yaw: -84.48980
+IdleTimeout has been reached.
+
+Best max: 03.66210, rms is 01.91372
+Best iteration for max: 692, AttUnc: 01.46939, VelUnc: 00.50000, PosUnc: 04.08163
+Best rms: 01.91092, max is 03.66759
+Best iteration for rms: 983, AttUnc: 00.69388, VelUnc: 09.25510, PosUnc: 00.89796
+IdleTimeout has been reached.
+
+
+
+AFTER DOING WEIRD GPS ADJUSTMENTS
+Best max: 03.79578, rms is 01.91124
+Best iteration for max: 71, Roll: -30.00000, Pitch: -5.17241, Yaw: -117.93103
+Best rms: 01.89092, max is 04.04785
+Best iteration for rms: 192, Roll: -30.00000, Pitch: 25.86207, Yaw: -142.75862
+IdleTimeout has been reached.
+
+Best max: 04.00624, rms is 01.89681
+Best iteration for max: 1146, AttUnc: 03.02041, VelUnc: 19.20408, PosUnc: 17.61224
+Best rms: 01.87915, max is 04.14951
+Best iteration for rms: 1225, AttUnc: 00.69388, VelUnc: 18.40816, PosUnc: 20.00000
+IdleTimeout has been reached.
+
+Best max: 004.0411, rms is 001.8781
+Best iteration for max: 1202, ABias: 4.92388e-06, GBias: 1.00000e-08
+Best rms: 001.8765, max is 004.0442
+Best iteration for rms: 193, ABias: 1.00000e-05, GBias: 1.00000e-08
+
+Best max: 4.0246721, rms is 1.8737139
+Best iteration for max: 161, epoch: 0.0122072
+Best rms: 1.8687211, max is 4.2254964
+Best iteration for rms: 712, epoch: 0.0370270
+
+Best max: 03.54675, rms is 01.87287
+Best iteration for max: 1277, Roll: -40.42373, Pitch: -8.38983, Yaw: -125.08475
+Best rms: 01.85211, max is 03.71435
+Best iteration for rms: 2092, Roll: -43.47458, Pitch: 11.44068, Yaw: -149.49153
+
+AFTER FUCKIN SHIT UP (using a "correct" attitude)
+Best max: 0004.112, rms is 0001.964
+Best iteration for max: 1060, aBiasUnc: 1264.855, gBiasUnc: 0100.000
+Best rms: 0001.949, max is 0004.137
+Best iteration for rms: 1897, aBiasUnc: 10000.000, gBiasUnc: 0193.070
+>> initialize_and_run
+
+Best max: 004.1221, rms is 001.9565
+Best iteration for max: 1202, ABias: 4.92388e-06, GBias: 1.00000e-08
+Best rms: 001.9268, max is 004.4532
+Best iteration for rms: 695, ABias: 1.42510e-06, GBias: 1.00000e-05
+
+RMS 2D Raw: 1.9345m
+Max 2D Raw: 4.3471m
+RMS 2D Filter: 1.9947m, -3.11% change
+Max 2D Filter: 5.1778m, -19.11% change
+
+RMS 3D Raw: 2.9424m
+Max 3D Raw: 6.0439m
+RMS 3D Filter: 2.2701m, 22.85% change
+Max 3D Filter: 5.3034m, 12.25% change
+
+Best max: 005.1805, rms is 001.9963
+Best iteration for max: 643, ANoise: 9.38837e+02, GNoise: 1.00000e+01
+Best rms: 001.9962, max is 005.1856
+Best iteration for rms: 1669, ANoise: 1.00000e+03, GNoise: 9.59188e+00
+
+Best max: 005.0484, rms is 001.9870
+Best iteration for max: 355, ABias: 1.00000e-04, GBias: 2.57191e-08
+Best rms: 001.9524, max is 005.5268
+Best iteration for rms: 640, ABias: 1.00000e-04, GBias: 1.19378e-05
+
+
+
+
+Best max: 4.6631838, rms is 1.9051942
+Best iteration for max: 1, Lever Arm: -0.1000000
+Best rms: 1.7980611, max is 5.3490202
+Best iteration for rms: 268, Lever Arm: 0.5691729
+\
+Best max: 5.0770359, rms is 1.9756379
+Best iteration for max: 126, Lever Arm: 0.2562814
+Best rms: 1.8173886, max is 6.0093519
+Best iteration for rms: 73, Lever Arm: -0.2763819
+Y COMPONENT
+
+Best max: 4.8920651, rms is 1.8552576
+Best iteration for max: 188, GPS Correction: 0.5016722
+Best rms: 1.8225049, max is 5.5847987
+Best iteration for rms: 216, GPS Correction: 0.8762542
+X COMPONENT
